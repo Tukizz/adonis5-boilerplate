@@ -10,13 +10,13 @@ export default class Post extends BaseModel {
   @column({ isPrimary: true })
   public id: string
 
-  @column({ isPrimary: true })
+  @column()
   public title: string
 
-  @column({ isPrimary: true })
+  @column()
   public content: string
 
-  @column({ isPrimary: true })
+  @column()
   public user_id: string
 
   @column.dateTime({ autoCreate: true })

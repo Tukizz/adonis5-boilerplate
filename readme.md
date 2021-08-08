@@ -35,6 +35,6 @@ $ node ace serve --watch
 ### Hit the API
 
 - using postman, this link [postman collection](https://www.getpostman.com/collections/7b28359706e8e976b54a)
-- look the routes.ts for knowing the endpoint
+- look the [routes.ts](https://github.com/Tukizz/adonis5-boilerplate/blob/main/start/routes.ts) for knowing the endpoint
 
 Happy Coding :)
